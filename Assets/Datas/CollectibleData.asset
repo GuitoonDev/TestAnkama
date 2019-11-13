@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0be561af4bf3bb1498eda53c4896f8da, type: 3}
+  m_Name: CollectibleData
+  m_EditorClassIdentifier: 
+  collectedWinValue: 3
+  spriteArray:
+  - {fileID: 21300022, guid: 6ff2b7b1111b23d46a78bfe8d13e19f1, type: 3}

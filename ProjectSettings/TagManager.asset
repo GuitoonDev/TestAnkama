@@ -15,13 +15,13 @@ TagManager:
   - 
   - Ground
   - Background
-  - Objects
+  - Object
   - Player
   - Obstacle
-  - PlatformBrick
-  - 
-  - 
-  - 
+  - PlatformBlock
+  - DeadZone
+  - PlayerBonus
+  - Collectible
   - 
   - 
   - 

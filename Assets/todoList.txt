@@ -1,23 +1,25 @@
 - Faire le personnage (course, glissade, saut) - DONE
 - Faire courir le personnage à l'infini - DONE
 - Faire sauter le personnage quand il est au bord d'une plateforme - DONE
+- Faire les parties de niveaux de plateforme - DONE
+- Créer des blocs de niveaux de plateforme - DONE
+- Faire de la génération aléatoire de partie de niveaux de plateformes - DONE
+- Spawner les blocs de plateforme au bon moment - DONE
+- Faire le bonus de super saut - DONE
+- Faire le bonus d'invincibilité - DONE
 
-- Faire les parties de niveaux de plateforme - IN PROGRESS
-
-- Créer des blocs de niveaux de plateforme
-- Faire un système d'assets à ajouter à la scène (plateformes, vases canons)
-- Faire de la génération aléatoire de partie de niveaux de plateformes
-- Faire le bonus de super saut
 - Faire le bonus de destruction de décor
-- Faire le bonus d'invincibilité
+- Faire un système d'assets à ajouter à la scène (plateformes, vases canons)
 
 
 UI
-- Faire la cut scene d'intro avec le personnage qui court (3, 2, 1, GO !)
-- Faire le système de score
-- Objectif : récolter 3 scarabées
+- Faire la cut scene d'intro avec le personnage qui court (3, 2, 1, GO !) - DONE
+- Faire le système de score - DONE
+- Objectif : récolter 3 scarabées - DONE
 
 
 Temps :
-- 14h -> 16h30
-- 18h30
+- 14h -> 16h30 : 2h30
+- 18h30 -> 20h : 1h30
+- 10h30 -> 12h30 : 2h00
+- 14h30 -> 16h00 : 1h30
